@@ -1,4 +1,4 @@
-FROM mattermost/mattermost-team-edition:release-5.21
+FROM mattermost/mattermost-team-edition:release-5.22
 
 USER root
 
